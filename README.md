@@ -1,6 +1,8 @@
 # Long-WAM · project page
 
-Static project page for **Long-WAM: Scaling the Context of World-Action Models**. It has no build step and no external dependencies, and it works on GitHub Pages as is.
+Static project page for **Long-WAM: Scaling the Context of World-Action Models**.
+
+**Live:** https://aaron-weihuang.com/Long-WAM-Page/ (GitHub Pages, deployed from `main` / root). Every push to `main` redeploys the site in about a minute. It has no build step and no external dependencies, and it works on GitHub Pages as is.
 
 ```
 index.html               page content
